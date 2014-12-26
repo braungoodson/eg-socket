@@ -1,0 +1,28 @@
+{
+  "name": "eg-socket",
+  "main": "eg-socket.js",
+  "version": "0.0.0",
+  "authors": [
+    "Braun Goodson <braungoodson@gmail.com>"
+  ],
+  "description": "angular socket wrapper for socket.io as part of express.io",
+  "keywords": [
+    "angular",
+    "modules",
+    "socket",
+    "express",
+    "io"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/braungoodson/eg-socket",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.8"
+  }
+}
